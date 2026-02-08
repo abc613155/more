@@ -1,0 +1,8 @@
+{
+  "name": "ImeIme Contact Lens Ordering",
+  "description": "A lightweight contact lens ordering app",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
